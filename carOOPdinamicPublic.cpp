@@ -78,7 +78,7 @@ public:
 };
 int main()
 {
-    Car a("R class", "china", 2012, 98450);
+    Car a("R class", "usa", 2012, 99550);
     a.Print();
     Car b;
     b.Input();
